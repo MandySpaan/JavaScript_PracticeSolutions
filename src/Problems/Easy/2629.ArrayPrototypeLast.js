@@ -5,7 +5,7 @@ Array.prototype.last = function () {
   return this[this.length - 1];
 };
 
-// import "./Tests/addMethod.js";
+// import "./Problems/Easy/2629.ArrayPrototypeLast.js";
 // import "./App.css";
 
 // function App() {

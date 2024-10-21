@@ -6,7 +6,7 @@ var compose = function (functions) {
 
 export default compose;
 
-// import compose from "./Tests/composeFunctions";
+// import compose from "./Problems/Easy/2629.FunctionComposition.js";
 // import "./App.css";
 
 // function App() {

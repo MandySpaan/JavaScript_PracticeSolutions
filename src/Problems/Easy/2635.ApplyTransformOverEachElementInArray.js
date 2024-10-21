@@ -22,7 +22,7 @@ var map = function (arr, fn) {
 
 export default map;
 
-// import map from "./Tests/transformArray";
+// import map from "./Problems/Easy/2635.ApplyTransformOverEachElementInArray";
 // import "./App.css";
 
 // function App() {

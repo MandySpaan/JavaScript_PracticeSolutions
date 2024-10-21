@@ -1,23 +1,24 @@
-import map from "./Tests/transformArray";
+import filter from "./Problems/Easy/2634.FilteElementsFromArrayr";
 import "./App.css";
 
 function App() {
-  let arr = [1, 2, 3];
-  let fn = function plusone(n) {
+  let arr = [0, 10, 20, 30];
+  let fn = function greaterThan10(n) {
+    return n > 10;
+  };
+  const newArray = filter(arr, fn);
+
+  let arr2 = [1, 2, 3];
+  let fn2 = function firstIndex(n, i) {
+    return i === 0;
+  };
+  const newArray2 = filter(arr2, fn2);
+
+  let arr3 = [-2, -1, 0, 1, 2];
+  let fn3 = function plusOne(n) {
     return n + 1;
   };
-  const newArray = map(arr, fn);
-
-  let fn2 = function plusI(n, i) {
-    return n + i;
-  };
-  const newArray2 = map(arr, fn2);
-
-  let arr3 = [10, 20, 30];
-  let fn3 = function constant() {
-    return 42;
-  };
-  const newArray3 = map(arr3, fn3);
+  const newArray3 = filter(arr3, fn3);
 
   return (
     <>

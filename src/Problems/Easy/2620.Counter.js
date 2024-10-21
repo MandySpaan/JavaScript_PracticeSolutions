@@ -9,7 +9,7 @@ var createCounter = function (n) {
 
 export default createCounter;
 
-// import createCounter from "./Tests/Counter";
+// import createCounter from "./Problems/Easy/2620.Counter";
 // import "./App.css";
 
 // function App() {

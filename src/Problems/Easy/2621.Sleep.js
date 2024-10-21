@@ -11,7 +11,7 @@ function sleep(millis) {
 
 export default sleep;
 
-// import sleep from "./Tests/setTimeout";
+// import sleep from "./Problems/Easy/2621.Sleep";
 // import "./App.css";
 
 // function App() {
