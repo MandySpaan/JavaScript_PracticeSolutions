@@ -1,11 +1,11 @@
 import "./App.css";
-import SumOfPositives from "./Problems/chatGPT/Easy/SumOfPositives";
+import FindShortestWord from "./Problems/chatGPT/Easy/FindShortestWord";
 
 function App() {
   return (
     <>
       <h1>Testing</h1>
-      <SumOfPositives />
+      <FindShortestWord />
     </>
   );
 }
