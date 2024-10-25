@@ -1,11 +1,11 @@
 import "./App.css";
-import CountVowels from "./Problems/chatGPT/Easy/CountVowels";
+import SumOfPositives from "./Problems/chatGPT/Easy/SumOfPositives";
 
 function App() {
   return (
     <>
       <h1>Testing</h1>
-      <CountVowels />
+      <SumOfPositives />
     </>
   );
 }
