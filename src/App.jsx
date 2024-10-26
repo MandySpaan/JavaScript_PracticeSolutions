@@ -1,11 +1,11 @@
 import "./App.css";
-import AreAnagrams from "./Problems/chatGPT/Easy/AreAnagrams";
+import MostFrequentElement from "./Problems/chatGPT/Easy/MostFrequentElement";
 
 function App() {
   return (
     <>
       <h1>Testing</h1>
-      <AreAnagrams />
+      <MostFrequentElement />
     </>
   );
 }
