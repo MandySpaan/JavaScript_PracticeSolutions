@@ -1,11 +1,11 @@
 import "./App.css";
-import MostFrequentElement from "./Problems/chatGPT/Easy/MostFrequentElement";
+import GroupObjectsByKey from "./Problems/chatGPT/Easy/GroupObjectsByKey";
 
 function App() {
   return (
     <>
       <h1>Testing</h1>
-      <MostFrequentElement />
+      <GroupObjectsByKey />
     </>
   );
 }
