@@ -1,11 +1,11 @@
 import "./App.css";
-import GroupObjectsByKey from "./Problems/chatGPT/Easy/GroupObjectsByKey";
+import FlattenNestedArray from "./Problems/chatGPT/Easy/FlattenNestedArray";
 
 function App() {
   return (
     <>
       <h1>Testing</h1>
-      <GroupObjectsByKey />
+      <FlattenNestedArray />
     </>
   );
 }
