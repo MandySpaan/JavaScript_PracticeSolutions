@@ -1,11 +1,11 @@
 import "./App.css";
-import ToBeOrNotToBe from "./Problems/LeetCode/Easy/2704.ToBeOrNotToBe";
+import PalindromeChecker from "./Problems/chatGPT/Easy/PalindromeChecker";
 
 function App() {
   return (
     <>
       <h1>Testing</h1>
-      <ToBeOrNotToBe />
+      <PalindromeChecker />
     </>
   );
 }
