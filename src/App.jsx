@@ -1,11 +1,11 @@
 import "./App.css";
-import FlattenNestedArray from "./Problems/chatGPT/Easy/FlattenNestedArray";
+import ArrayWrapperComponent from "./Problems/LeetCode/Easy/2995.ArrayWrapper";
 
 function App() {
   return (
     <>
       <h1>Testing</h1>
-      <FlattenNestedArray />
+      <ArrayWrapperComponent />
     </>
   );
 }
