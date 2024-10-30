@@ -1,11 +1,11 @@
 import "./App.css";
-import ArrayWrapperComponent from "./Problems/LeetCode/Easy/2995.ArrayWrapper";
+import ReturnLengthOfArgumentsPassed from "./Problems/LeetCode/Easy/2703.ReturnLengthOfArgumentsPassed";
 
 function App() {
   return (
     <>
       <h1>Testing</h1>
-      <ArrayWrapperComponent />
+      <ReturnLengthOfArgumentsPassed />
     </>
   );
 }
