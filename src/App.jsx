@@ -1,11 +1,11 @@
 import "./App.css";
-import AddTwoPromises from "./Problems/LeetCode/Easy/2723.AddTwoPromises";
+import UniqueCharacters from "./Problems/chatGPT/Easy/UniqueCharacters";
 
 function App() {
   return (
     <>
       <h1>Testing</h1>
-      <AddTwoPromises />
+      <UniqueCharacters />
     </>
   );
 }
