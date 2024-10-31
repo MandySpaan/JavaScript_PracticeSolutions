@@ -1,11 +1,11 @@
 import "./App.css";
-import ChunkArray from "./Problems/chatGPT/Easy/ChunkArray";
+import FindLongestWord from "./Problems/chatGPT/Easy/FindLongestWord";
 
 function App() {
   return (
     <>
       <h1>Testing</h1>
-      <ChunkArray />
+      <FindLongestWord />
     </>
   );
 }
