@@ -1,11 +1,11 @@
 import "./App.css";
-import UniqueCharacters from "./Problems/chatGPT/Easy/UniqueCharacters";
+import FindMissingNumber from "./Problems/chatGPT/Easy/FindMissingNumber";
 
 function App() {
   return (
     <>
       <h1>Testing</h1>
-      <UniqueCharacters />
+      <FindMissingNumber />
     </>
   );
 }
