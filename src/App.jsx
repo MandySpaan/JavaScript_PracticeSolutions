@@ -1,11 +1,11 @@
 import "./App.css";
-import FizzBuzz from "./Problems/chatGPT/Easy/FizzBuzz";
+import CountUniqueValues from "./Problems/chatGPT/Easy/CountUniqueValues";
 
 function App() {
   return (
     <>
       <h1>Testing</h1>
-      <FizzBuzz />
+      <CountUniqueValues />
     </>
   );
 }
