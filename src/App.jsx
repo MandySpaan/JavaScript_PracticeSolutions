@@ -1,11 +1,11 @@
 import "./App.css";
-import FindLongestWord from "./Problems/chatGPT/Easy/FindLongestWord";
+import AddTwoPromises from "./Problems/LeetCode/Easy/2723.AddTwoPromises";
 
 function App() {
   return (
     <>
       <h1>Testing</h1>
-      <FindLongestWord />
+      <AddTwoPromises />
     </>
   );
 }
