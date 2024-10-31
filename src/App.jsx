@@ -1,11 +1,11 @@
 import "./App.css";
-import FindMissingNumber from "./Problems/chatGPT/Easy/FindMissingNumber";
+import CapitalizeWords from "./Problems/chatGPT/Easy/CapitalizeWords";
 
 function App() {
   return (
     <>
       <h1>Testing</h1>
-      <FindMissingNumber />
+      <CapitalizeWords />
     </>
   );
 }
