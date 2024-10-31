@@ -1,11 +1,11 @@
 import "./App.css";
-import CapitalizeWords from "./Problems/chatGPT/Easy/CapitalizeWords";
+import RemoveVowelsFromString from "./Problems/chatGPT/Easy/RemoveVowelsFromString";
 
 function App() {
   return (
     <>
       <h1>Testing</h1>
-      <CapitalizeWords />
+      <RemoveVowelsFromString />
     </>
   );
 }
