@@ -1,11 +1,11 @@
 import "./App.css";
-import RemoveVowelsFromString from "./Problems/chatGPT/Easy/RemoveVowelsFromString";
+import SumOfDigits from "./Problems/chatGPT/Easy/SumOfDigits";
 
 function App() {
   return (
     <>
       <h1>Testing</h1>
-      <RemoveVowelsFromString />
+      <SumOfDigits />
     </>
   );
 }
