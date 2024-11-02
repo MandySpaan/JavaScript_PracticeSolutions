@@ -1,11 +1,11 @@
 import "./App.css";
-import SumOfDigits from "./Problems/chatGPT/Easy/SumOfDigits";
+import FindSecondLargest from "./Problems/ChatGPT/Easy/FindSecondLargest";
 
 function App() {
   return (
     <>
       <h1>Testing</h1>
-      <SumOfDigits />
+      <FindSecondLargest />
     </>
   );
 }
