@@ -1,11 +1,11 @@
 import "./App.css";
-import FindSecondLargest from "./Problems/ChatGPT/Easy/FindSecondLargest";
+import SortBy from "./Problems/LeetCode/Easy/2724.SortBy";
 
 function App() {
   return (
     <>
       <h1>Testing</h1>
-      <FindSecondLargest />
+      <SortBy />
     </>
   );
 }
