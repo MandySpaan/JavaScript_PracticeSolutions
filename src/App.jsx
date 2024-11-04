@@ -1,11 +1,11 @@
 import "./App.css";
-import IsObjectEmpty from "./Problems/LeetCode/Easy/2727.IsObjectEmpty";
+import LongestUniqueSubstring from "./Problems/ChatGPT/Medium/LongestUniqueSubstring";
 
 function App() {
   return (
     <>
       <h1>Testing</h1>
-      <IsObjectEmpty />
+      <LongestUniqueSubstring />
     </>
   );
 }
