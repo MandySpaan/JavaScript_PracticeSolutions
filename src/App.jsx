@@ -1,11 +1,11 @@
 import "./App.css";
-import ProductExceptSelf from "./Problems/ChatGPT/Medium/ProductExceptSelf";
+import ArrayPartitionForMinSumDif from "./Problems/ChatGPT/Medium/ArrayPartitionForMinSumDif";
 
 function App() {
   return (
     <>
       <h1>Testing</h1>
-      <ProductExceptSelf />
+      <ArrayPartitionForMinSumDif />
     </>
   );
 }
